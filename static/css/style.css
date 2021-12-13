@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Marck+Script&family=Rye&display=swap');
 
-
 :root, html[data-theme="dark"] {
     --bg-color: #000000;
     --fg-color: #ffffff;
@@ -52,6 +51,10 @@ blockquote{
     font-family: 'Marck Script', cursive;
     line-height: 1.5em;
     font-size: 130%;
+}
+
+blockquote span{
+    margin-left: 20%;
 }
 
 h1,h2,h3,h4,h5,h6{
