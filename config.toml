@@ -1,0 +1,14 @@
+# The URL the site will be built for
+base_url = "https://bugswriter.com"
+generate_feed = true
+compile_sass = false
+default_language = "en"
+#build_search_index = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
+
+
+[extra]
+# Put all your custom variables here

@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Marck+Script&family=Rye&display=swap');
+
+
+:root, html[data-theme="dark"] {
+    --bg-color: #000000;
+    --fg-color: #ffffff;
+    --color00: #E1578A;
+    --color01: #FF69EB;
+    --color02: #FF86C8;
+    --color03: #FFA3A5;
+    --color04: #FFBF81;
+    --color05: #FFDC5E;
+    --color06: #FDFF8F;
+}
+
+html[data-theme="light"] {
+    --bg-color: #ffffff;    
+    --fg-color: #000000;
+    --color00: #93329E;
+    --color01: #822659;
+    --color02: #440A67;
+    --color03: #FD3A69; 
+    --color04: #FF86C8;
+    --color05: #FFBF81;
+    --color06: #FF69EB;    
+}
+
+
+body{
+    padding: 1em;
+    max-width: 2000px;
+    margin: auto;
+    font-family: 'Lora', serif;
+    line-height: 1.4em;
+    color: var(--fg-color);
+    background-color: var(--bg-color);
+}
+
+/** Elements **/
+p{
+  text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: var(--color01);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: var(--color02);
+}
+
+blockquote{
+    font-family: 'Marck Script', cursive;
+    line-height: 1.5em;
+    font-size: 130%;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Chonburi', cursive;
+    color: var(--color03);
+}
+
+
+/** Header **/
+header{
+    max-width: 800px;
+    float:right;
+    padding: 10px;
+}
+
+header h1{
+    font-size: 300%;
+    font-family: 'Chonburi', cursive;
+}
+
+header h1 span{
+    color: purple;
+}
+
+/** Image Gallery **/
+#img-gallery img{
+    max-width: 240px;
+    vertical-align: top;
+}
+
+
+#top-menu{
+    position: absolute;
+    top: 0;
+    right: 20px;
+    font-size: 80%;
+    font-family: consolas;
+}
+
+#top-menu small:hover{
+    color: var(--color02);
+    text-decoration: underline;
+}
+
+
+/** Nav Bar **/
+nav{
+    padding: 5px;
+    margin: 10px;
+}
+
+nav a{
+    margin: 5px;
+}
+
+nav span{
+    margin: 10px;
+}
+
+/** main section **/
+main{
+    padding: 10px;
+    max-width: 900px;
+    border-bottom: 1px solid var(--color00);
+}
+
+.blog-heading{
+    text-align: center;
+}
+
+
+/** Footer **/
+footer{
+    padding: 20px;
+}
+
+#jukebox, #music-canvas{
+    display: none;
+    background-color: var(--bg-color);
+    width: 100%;
+    height: 200px;
+}
+
+/** music visualizer **/
+audio {
+    display: none;
+}
+
+
+/** First Media Query **/
+@media only screen and (max-width: 1700px) {
+    body{
+	max-width: 1000px;
+	margin: auto;
+    }
+    header{
+	border-bottom: 1px solid var(--fg-color);
+	margin: auto;
+	float: none;
+	text-align: center;
+    }
+    #jukebox, #music-canvas{
+	position: static;
+	width: 600px;
+	height: 200px;
+	margin: auto;
+    }
+}
+
+
+/** Second Media Query **/
+@media only screen and (max-width: 600px) {
+    body{
+	padding: 0.5em;
+	font-size: 85%;
+    }
+    header h1{
+	font-size: 180%;
+    }
+    h1{
+	font-size: 140%;
+    }
+    #img-gallery img{
+	max-width: 90px;
+    }
+    #jukebox, #music-canvas{
+	width: 250px;
+	height: 100px;
+    }
+}
+
+
