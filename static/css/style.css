@@ -47,7 +47,7 @@ a:hover{
     color: var(--color02);
 }
 
-blockquote{
+#header-quote{
     font-family: 'Marck Script', cursive;
     line-height: 1.5em;
     font-size: 130%;
@@ -119,6 +119,14 @@ main{
     padding: 10px;
     max-width: 900px;
     border-bottom: 1px solid var(--color00);
+    text-align: center;
+}
+
+main ul{
+    text-align: left;
+}
+main img{
+    max-width: 700px;
 }
 
 .blog-heading{
@@ -183,6 +191,9 @@ audio {
     #jukebox, #music-canvas{
 	width: 250px;
 	height: 100px;
+    }
+    main img{
+	max-width: 250px;
     }
 }
 
