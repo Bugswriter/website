@@ -6,6 +6,7 @@ date = 2021-09-14
 So today at mid night, I am writing this blog and I am very excited about it. Because this is my first blog on [my website](https://bugswriter.com).
 I always wanted this. My own place on "The Internet", where I can write whatever I want. I don't like getting censored.
 This is the main reason why I chose to write here, instead of structuring my rant into 280 character on twitter.
+<!-- more -->
 Internet is an amazing place, It changed my life. I don't want to go deep on Internet situation.
 Since **this is my first blog, this is going to be completely topicless**.
 

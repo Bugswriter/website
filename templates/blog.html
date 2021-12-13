@@ -2,9 +2,16 @@
 
 {% block content %}
 <h1 class="title">{{ section.title }}</h1>
-<ul>
+<div id="blog-list"> 
   {% for page in section.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <div id="blog-summary"> 
+    <h3><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h3>
+    <small class="subtitle">{{ page.date }}</small>
+    <p>
+      {{ page.summary | markdown | safe }}
+      <a href="{{ page.permalink | safe }}" id="cont-read">continue reading...</a>
+    </p>
+  </div>
   {% endfor %}
-</ul>
+</div>
 {% endblock content %}
