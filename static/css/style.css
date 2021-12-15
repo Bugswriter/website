@@ -41,6 +41,10 @@ a{
     text-decoration: none;
     color: var(--color01);
 }
+p{
+	text-align: justify;
+}
+
 
 a:hover{
     text-decoration: underline;
