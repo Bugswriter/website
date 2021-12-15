@@ -50,7 +50,7 @@ I always make this game hard for others.
 As I said before a '*hacker don't just exploit, he also patch*'. The best way to patch your vurnerabilities -
 is to stop living in *ignorance*. Start being honest with yourself.
 Sadly today our society is filled with fake people. No one is truly real.
-Our emotions like guilt, ego, anger, fear always stops us looking at ourselves.
+Our emotions like guilt, ego, anger, fear always stops us from looking at ourselves.
 We all lost touch with honesty the moment we lost our innocence.
 
 - I took red pill in life and I feel bad because I know how miserable you get in life with this.
