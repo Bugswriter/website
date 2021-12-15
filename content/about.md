@@ -67,6 +67,8 @@ We all lost touch with honesty the moment we lost our innocence.
 - Yes, I am full of hate and darkness. I am full of negativity. But someone have to be.
 - If I am reacting on something. It's just me trying to have fun out of good mood. Because deep down inside.
   I never give a fuck about things I can't control or change. But I think.
+- I believe in true freedom. Freedom of mind.
+- Sometimes I wonder, what I hate more? powerful people or weak people.
 
 I don't want to be ordinary, I want to make a difference, be great. But at what cost?
 > Name one hero, who was happy?
