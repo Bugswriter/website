@@ -53,7 +53,7 @@ Sadly today our society is filled with fake people. No one is truly real.
 Our emotions like guilt, ego, anger, fear always stops us from looking at ourselves.
 We all lost touch with honesty the moment we lost our innocence.
 
-- I took red pill in life and I feel bad because I know how miserable you get in life with this.
+- I took red pill in life and I feel bad because I know how miserable you get with this.
 - When I imagine my life, I always see myself sitting in a dark room all night.
   Doing some shit on computer while being connected to this crazy technology *Internet*.
 - Sometimes when I turn off my computer, I realize "I am completely alone".
