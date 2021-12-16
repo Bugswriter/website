@@ -56,24 +56,33 @@ We all lost touch with honesty the moment we lost our innocence.
 - I took red pill in life and I feel bad because I know how miserable you get with this.
 - When I imagine my life, I always see myself sitting in a dark room all night.
   Doing some shit on computer while being connected to this crazy technology *Internet*.
-- Sometimes when I turn off my computer, I realize "I am completely alone".
-- But I lead myself into this. It's a choice. I might feel bad, but I never regret.
+- Sometimes when I turn off my computer, I realize "I am completely alone". I lead myself into this.
+  It's a choice. I might feel bad, but I never regret.
 - I always have mixed opinions, it help me making my game tough. 
-- Most people never realize it's about *perception*. All actions can be justified in a way it make sense.
-- I try look for cause rather than action or opinion.
+- I look things with different perspective, but it's hard, so I end up like most people, using the perspective
+  which helps my agenda or emotions, *Perception* is a great game. When you master it you can justify all action
+  in a way, it make sense.
+- I try my best to look for the cause rather than action or opinion.
 - I want to be a good person. But this world doesn't allow it.
 - I hate most people, I despise weakness. But I also pity occasionally.
 - I love good humor, always try to make clever jokes. It help me enjoying my life.
 - Yes, I am full of hate and darkness. I am full of negativity. But someone have to be.
 - If I am reacting on something. It's just me trying to have fun out of good mood. Because deep down inside.
-  I never give a fuck about things I can't control or change. But I think.
+  I never give a fuck about things I can't control or change. I just look.
+- Sometimes I wonder, Who I hate more? powerful people or weak people.
+- I always try to never look for validations from the others.
+- I believe in skills, talent, knowledge. The only true way to make this world a
+  better place is doing what you love.
+- I always look what drives a person everyday?
+  Money, Greed, Love, Fear, Compulsion, Passion. Some drives are good, some are bad.
 - I believe in true freedom. Freedom of mind.
-- Sometimes I wonder, what I hate more? powerful people or weak people.
 
 I don't want to be ordinary, I want to make a difference, be great. But at what cost?
 > Name one hero, who was happy?
 
 (it was a rhetorical question)
+
+
 
 
 
