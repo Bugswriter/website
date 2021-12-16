@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Marck+Script&family=Rye&display=swap');
 
-:root, html[data-theme="dark"] {
+:root {
     --bg-color: #000000;
     --fg-color: #ffffff;
     --color00: #E1578A;
@@ -11,19 +11,6 @@
     --color05: #FFDC5E;
     --color06: #FDFF8F;
 }
-
-html[data-theme="light"] {
-    --bg-color: #ffffff;    
-    --fg-color: #000000;
-    --color00: #93329E;
-    --color01: #822659;
-    --color02: #440A67;
-    --color03: #FD3A69; 
-    --color04: #FF86C8;
-    --color05: #FFBF81;
-    --color06: #FF69EB;    
-}
-
 
 body{
     padding: 1em;
