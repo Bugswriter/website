@@ -13,5 +13,6 @@ page_template = "page.html"
 - Don't ask issues you are getting in your system.
 - If you don't want conversation just use email.
 - I read all my emails don't resend same stuff again.
-- Be patient, and if you still got no response.
+- Please be patient, sometimes I get lot of messages.
 - Don't mind if I fail to respond. I miss sometimes.
+- After waiting for few days, You can again try to connect.
