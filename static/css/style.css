@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Marck+Script&family=Rye&display=swap');
 
 :root {
-    --bg-color: #000000;
     --fg-color: #ffffff;
+    --bg-color: #000;
     --color00: #E1578A;
     --color01: #FF69EB;
     --color02: #FF86C8;
@@ -19,7 +19,8 @@ body{
     font-family: 'Lora', serif;
     line-height: 1.4em;
     color: var(--fg-color);
-    background-color: var(--bg-color);
+	background-color: var(--bg-color);
+	background-image: url(https://cdn.lowgif.com/medium/0a1db283b4740c54-dark-grunge-gif-find-share-on-giphy.gif);
 }
 
 /** Elements **/
