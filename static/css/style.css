@@ -19,8 +19,7 @@ body{
     font-family: 'Lora', serif;
     line-height: 1.4em;
     color: var(--fg-color);
-	background-color: var(--bg-color);
-	background-image: url(https://cdn.lowgif.com/medium/0a1db283b4740c54-dark-grunge-gif-find-share-on-giphy.gif);
+    background-color: var(--bg-color);
 }
 
 /** Elements **/
