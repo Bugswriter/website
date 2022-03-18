@@ -1,5 +1,5 @@
 +++
-title = "test"
+title = "Time to move on FreeBSD"
 date = 2021-09-15
 +++
 
