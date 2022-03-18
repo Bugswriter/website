@@ -1,6 +1,7 @@
 +++
-title = "Time to move on FreeBSD"
+title = "test"
 date = 2021-09-15
+draft = true
 +++
 
 First of all **FreeBSD or any BSD is not Linux or its distro**.
