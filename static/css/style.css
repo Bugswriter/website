@@ -46,7 +46,14 @@ blockquote span{
 
 h1,h2,h3,h4,h5,h6{
     font-family: 'Chonburi', cursive;
-    color: var(--color03);
+    color: var(--color04);
+}
+
+pre{
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: var(--color01);
 }
 
 
@@ -117,8 +124,6 @@ main img{
 }
 #blog-summary h3{
 	border-bottom: 1px solid white;
-	margin-bottom: 2px;
-	padding: 5px;
 }
 
 
@@ -149,6 +154,18 @@ footer{
 	float: none;
 	text-align: center;
     }
+    #img-gallery{
+	display: none;
+    }
+    nav{
+	padding: 1px;
+	margin: 2px;
+    }
+    #header-quote{
+	font-family: 'Marck Script', cursive;
+	line-height: 1.5em;
+	font-size: 130%;
+    }
 }
 
 
@@ -164,12 +181,23 @@ footer{
     h1{
 	font-size: 140%;
     }
-    #img-gallery img{
-	max-width: 90px;
+
+    nav{
+	padding: 1px;
+	margin: 2px;
+	font-size: 70%;
+    }
+
+    #header-quote{
+	line-height: 1.2em;
+	font-size: 90%;
+    }
+
+    #img-gallery{
+	max-width: 60px;
+	display: none;
     }
     main img{
 	max-width: 250px;
     }
 }
-
-

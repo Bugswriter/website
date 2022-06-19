@@ -3,8 +3,6 @@ title = "My Trip to Mukteshwar"
 date = 2021-11-18
 +++
 
-## My Very First Trip
-
 After spending more than a year in a dark room, I decided to visit mountains first time in my life. I was always excited to do
 these kind of stuff. I chose this place Mukteshwar, a small district somewhere in Uttrakhand, India. I did my research and watched
 many vlogs. I wanted to do all the normie stuff like making vlog and enjoying the views.
