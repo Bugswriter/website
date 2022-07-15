@@ -20,7 +20,7 @@ I find it very boring.
 I believe knowing a person is an art. It's like an open world game,
 you don't know a person you explore him, more you explore, more you get comfortable.
 Thousands of stories and choices, one leading to another.
-A storyline with the addition of some genes which buils personality.
+A storyline with the addition of some genes which builds personality.
 
 You know what we learn when we play too many games?
 At some point we start recognizing patterns. We realize every game is just similar.
