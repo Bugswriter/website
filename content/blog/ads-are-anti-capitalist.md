@@ -7,6 +7,7 @@ Doesn't matter what you want - you see ads. We all do. We got no other choice in
 modern (attention economy)[https://sadgrl.online/blog/entries/attention-economy.html].
 You have to be extremely autistic to ignore ads fully. Literally everything we consume get rigged 
 with ads. You can't enjoy something without getting manupilated to buy something.
+<!--more-->
 
 But if you think rationally about ads, you will realize all of this ad torture is kinda useless.
 Infact in my opinion "Ads should get banned".
